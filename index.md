@@ -53,7 +53,17 @@ Such methods address several shortcomings of earlier solutions and represent a p
 ### References
 This overview summarizes concepts discussed across multiple academic and applied research efforts in the field of visual privacy and shoulder-surfing mitigation.
 
+Burke, M. (2026). *Flexible Screen Protection Materials in Modern Smartphones*.  
+Zenodo. https://doi.org/10.5281/zenodo.18318304
+
+---
+
+### Notes on Real-World Implementations
+Concepts similar to those described above are increasingly applied in modern consumer screen protection technologies...
+
+
 ---
 
 ### Notes on Real-World Implementations
 Concepts similar to those described above are increasingly applied in modern consumer screen protection technologies, combining usability with privacy-aware design principles.
+
