@@ -59,11 +59,5 @@ Zenodo. https://doi.org/10.5281/zenodo.18318304
 ---
 
 ### Notes on Real-World Implementations
-Concepts similar to those described above are increasingly applied in modern consumer screen protection technologies...
-
-
----
-
-### Notes on Real-World Implementations
 Concepts similar to those described above are increasingly applied in modern consumer screen protection technologies, combining usability with privacy-aware design principles.
 
